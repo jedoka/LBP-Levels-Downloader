@@ -1,16 +1,13 @@
-this program use archive_dl to download FIXED Levels without issues in easy way !
+make sure you download the lastest Version !
 
-just give him 3 things :
+this program use archive_dl 2.2 to download FIXED Levels without issues in easy way !
 
--Level name (optional you can enter any name you want)
-*NOTE: you must be remove & and : symols from Level name 
+just copy the level ID and paste it then press Download level , you can find the level by press open folder !
 
--Destination path (the path of folder you want to save levels on it) 
+this time you don't need toolkit just drag the level folder on your USB SAVEDATA and import the level in the game !
+make sure the levels on ...PS3\SAVEDATA\
 
--HASH of level
+to search levels and get the ID use this website : https://maticzpl.xyz/lbpfind/
 
-to search levels and get the HASH use this website : https://maticzpl.xyz/lbpfind/
-
-the # button is feature to load the last Destination path used by just click on it 
-, it's useful when you run program and do you want search quickly
- without select Destination path every time.
+if you don't know how to import levels on your ps3 watch this video :
+https://www.youtube.com/watch?v=lP3wdan_WHI
